@@ -204,3 +204,75 @@ header {
 .subtitle_wrap {
 	text-align: center;
 }
+
+
+.section_app {
+	background-color: #ED4C5C;
+	margin-top: 50px;
+}
+.app_download {
+	width: 1100px;
+	padding: 120px 0 95px;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+}
+.app_article {
+	color: #fff;
+	width: 440px;
+}
+.app_article h1 {
+	font-size: 36px;
+}
+
+
+
+
+.video_app {
+	width: 540px;
+	position: relative;
+	display: flex;
+}
+.scroll_img3 {
+	position: absolute;
+	left: 250px;
+}
+.scroll_img2 {
+	position: absolute;
+	left: 100px;
+	z-index: 5;
+	opacity: 50%;
+	
+}
+.scroll {
+	z-index: 10;
+	position: absolute;
+	left: 150px;
+}
+
+
+footer {
+	background-color: #FAFAFA;
+}
+.footer_nav {
+	width: 1100px;
+	display: flex;
+	justify-content: space-between;
+	padding: 50px 0;
+	margin: auto;
+}
+.addres {
+	width: 250px;
+}
+.copyright {
+	margin-top: 140px;
+}
+.services div {
+	padding: 5px 0;
+}
+.in_touch div {
+	padding: 10px 0;
+}
+.support_logo {
+	margin-top: 35px;
+}
